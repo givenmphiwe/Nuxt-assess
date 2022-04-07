@@ -1,11 +1,14 @@
 <template>
   <div>
-    <h1>Hello</h1>
+    <router-link to="/About">About</router-link>
+    <h1>Home </h1>
   </div>
 </template>
 
 <script>
-export default {};
+export default {
+
+};
 </script>
 
 <style>
