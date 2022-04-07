@@ -1,0 +1,16 @@
+[
+  {
+    "name": "About",
+    "path": "/About",
+    "component": "C:\\\\Users\\\\user\\\\Documents\\\\Nuxt assess\\\\pages\\\\About.vue",
+    "chunkName": "pages/About",
+    "_name": "_131a7ef0"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\user\\\\Documents\\\\Nuxt assess\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_893f8c56"
+  }
+]
